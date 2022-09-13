@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191235389124",
+    "firebase_url": "https://food-family-4c476-default-rtdb.firebaseio.com",
+    "project_id": "food-family-4c476",
+    "storage_bucket": "food-family-4c476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191235389124:android:59793e288917cab505bb91",
+        "android_client_info": {
+          "package_name": "com.example.food_family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191235389124-pkunqia9pnvllqrpv85dm0mksqmuccau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEnek-eJ_vP0KPykz7vHXzEX58OLqA6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191235389124-pkunqia9pnvllqrpv85dm0mksqmuccau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

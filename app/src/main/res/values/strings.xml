@@ -1,0 +1,27 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="forgote_password">Forgote password</string>
+    <string name="signup">Signup</string>
+    <string name="food_logo">Food Logo</string>
+    <string name="contineu">Continue to Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="phone">Mobile no</string>
+    <string name="food_family">Food Family</string>
+    <string name="I_have_account">I Have Already Account? LOGIN</string>
+    <string name="app_name">Food_family</string>
+    <string name="full_name">Full Name</string>
+    <string name="food_name">Name</string>
+    <string name="addtoCard">Add to Card</string>
+    <string name="shoped">Shoped</string>
+    <string name="details">Details</string>
+    <string name="adderess">Enter you Address</string>
+    <string name="dolar">$</string>
+    <string name="prise">Prise</string>
+    <string name="buy_now">Order Now</string>
+    <string name="home">Home</string>
+    <string name="description1">This product is made up by good quality</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
